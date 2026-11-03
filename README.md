@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=2PfAvAYICxo">me</a>
 <details>
 <summary></summary>
-  hi i spend my times with cars also i married steve harrington os thats new<div></div>
-  i also dont take this game as seriously
+ hi i like cars<div></div>
+  heres a cool <a href="https://simulator.electude.com/">engine repair simulator</>
 </details>
 </div>
