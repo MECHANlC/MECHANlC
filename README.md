@@ -6,6 +6,6 @@
  hi i like cars<div></div>
   heres a cool <a href="https://simulator.electude.com/">engine repair simulator</>
    
-   original <a href="https://charm.li/">car manuals</a>
+   original <a href="https://charm.li/">car service manuals</a>
 </details>
 </div>
